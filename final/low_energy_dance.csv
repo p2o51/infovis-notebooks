@@ -1,0 +1,101 @@
+track_name,artist_name,year,energy,danceability,popularity
+Break the Wheel,Ramin Djawadi,2019,0.0182,0.0757,39
+Totally Fine,Alan Silvestri,2019,0.0168,0.147,37
+From Nothing Comes a King,Daniel Pemberton,2017,0.0171,0.19,33
+You Did Good,Alan Silvestri,2019,0.00979,0.0925,30
+I Figured It Out,Alan Silvestri,2019,0.00665,0.109,26
+Just Me and You,Ramin Djawadi,2017,0.00601,0.245,26
+Snap Out of It,Alan Silvestri,2019,0.00745,0.0782,25
+Finally Got It Right,Alan Silvestri,2018,0.0161,0.117,24
+Throne for the Game,Ramin Djawadi,2015,0.00827,0.192,22
+Fate Of My Dad,Blake Neely,2015,0.00827,0.308,20
+No More Surprises,Alan Silvestri,2018,0.00952,0.0676,20
+"Half Orc, Half Human",Ramin Djawadi,2016,0.0101,0.137,19
+They Can't Hurt Me,Alan Silvestri,2018,0.0111,0.217,16
+You Got This,Alan Silvestri,2018,0.00135,0.368,16
+1% of Something,Ramin Djawadi,2017,0.00731,0.0947,16
+Molly's Dream,Daniel Pemberton,2018,0.000637,0.277,14
+Joe Tells Iris the Truth About Her Mother,Blake Neely,2016,0.00286,0.0986,11
+Let Each Other Go,Blake Neely,2016,0.0101,0.0723,11
+Like Romeo and Juliet,"Blake Neely, Sherri Chung",2018,0.0132,0.106,10
+Not Afraid to Die,Blake Neely,2017,0.0183,0.149,10
+The Ring and the Grave,Blake Neely,2016,0.00493,0.14,9
+"""What Are You?""",Alan Silvestri,2018,0.0123,0.187,9
+Limerence,A.R. Rahman,2017,0.00677,0.142,9
+Get Far Away From Me,Blake Neely,2017,0.0135,0.119,8
+Therapy Session,Daniel Pemberton,2018,0.0148,0.15,8
+Mon-El Is Married,"Blake Neely, Daniel James Chan",2019,0.00336,0.151,8
+Wanted to Be a Scientist,Blake Neely,2017,0.00847,0.171,8
+Everyone Left,Blake Neely,2017,0.00599,0.16,7
+Callister Inc.,Daniel Pemberton,2017,0.0163,0.243,7
+Lance Goes to Rehab,Blake Neely,2017,0.00654,0.224,7
+Gift from Clark / Stronger Together,Blake Neely,2016,0.0104,0.179,6
+Not Saying Never,Blake Neely,2017,0.0159,0.149,6
+Gandhi,A.R. Rahman,2017,0.00693,0.157,6
+How Does She Do It?,Blake Neely,2016,0.00184,0.082,5
+Goodbye to Cat,Blake Neely,2017,0.0105,0.283,5
+I Am So Proud of You,Blake Neely,2017,0.0044,0.173,5
+Being True To Yourself,"Blake Neely, Nathaniel Blume, Daniel James Chan, Sherri Chung",2018,0.0196,0.155,5
+They Can't Sideline Us,"Blake Neely, Nathaniel Blume",2019,0.0126,0.138,4
+Blue Skies,Daniel Pemberton,2017,0.0105,0.384,4
+Having A Good Sister,"Blake Neely, Daniel James Chan",2019,0.0108,0.118,4
+The Lie,Blake Neely,2016,0.0149,0.167,4
+Just the Way You Are (Arr. for Piano),"Billy Joel, Yann Nyman",2019,0.0125,0.37,4
+You'll Never Lose / Old New DeLorean - From “Back To The Future Pt. II” Original Score,Alan Silvestri,2015,0.0171,0.223,4
+You Could Be Greater,Blake Neely,2019,0.0149,0.0736,4
+You Will Have It All,"Blake Neely, Daniel James Chan",2019,0.00445,0.224,4
+Like A Father,"Blake Neely, Nathaniel Blume, Daniel James Chan, Sherri Chung",2018,0.0168,0.0872,4
+Rene's Loss,Blake Neely,2017,0.00819,0.0781,3
+My Name Is Jonn Jonzz,Blake Neely,2016,0.0122,0.0778,3
+Wally Leaving Central City,"Blake Neely, Nathaniel Blume",2019,0.0126,0.161,3
+Goodbyes Are Never Easy,"Blake Neely, Daniel James Chan",2019,0.00377,0.12,3
+Dinah Identifies Vincent,Blake Neely,2019,0.014,0.323,3
+Why Do They All Leave?,Blake Neely,2019,0.0145,0.333,3
+Realizations,Blake Neely,2017,0.0134,0.168,3
+The Most Important Part Of The Job,"Blake Neely, Nathaniel Blume",2019,0.00891,0.14,3
+Cheryl Committed,"Blake Neely, Sherri Chung",2018,0.013,0.364,2
+Almost Losing Alex,Blake Neely,2017,0.015,0.193,2
+Just the Way You Are (Arr. for Piano),"Billy Joel, Yann Nyman",2019,0.0125,0.37,2
+Broken Oath for Love,Blake Neely,2016,0.0169,0.199,2
+You'll Never Lose - Alternate,Alan Silvestri,2015,0.0134,0.202,2
+If They Ever Did - Alternate Segment,Alan Silvestri,2015,0.0184,0.254,2
+Leonard Goes Home,Blake Neely,2016,0.0152,0.0917,2
+Bloody Mary / Interested,Blake Neely,2015,0.0196,0.243,2
+What Is Wrong With Me,"Blake Neely, Daniel James Chan",2019,0.00744,0.176,2
+Alex Tells Maggie,Blake Neely,2017,0.00271,0.165,2
+Oliver Wants A Yes,"Blake Neely, Nathaniel Blume, Daniel James Chan, Sherri Chung",2018,0.0033,0.148,2
+Trying to Protect You,Blake Neely,2016,0.0036,0.0661,2
+Sense About Her,Blake Neely,2017,0.00842,0.135,2
+Martian Memory,"Blake Neely, Daniel James Chan",2019,0.0078,0.199,2
+Just the Way You Are (Arr. for Piano),"Billy Joel, Yann Nyman",2019,0.0125,0.37,1
+You've Never Felt It,Daniel Pemberton,2017,0.000906,0.134,1
+Not so Royal,Ramin Djawadi,2019,0.00146,0.202,1
+Fin de la cure,Daniel Pemberton,2016,0.0178,0.159,1
+"Naughty, Naughty!",Ramin Djawadi,2019,0.00372,0.18,1
+Oldest Form Of Bullying,"Blake Neely, Daniel James Chan",2019,0.00463,0.174,1
+Les soins,Daniel Pemberton,2016,0.00542,0.087,1
+A Bridge Too Far,Ramin Djawadi,2019,0.00593,0.167,1
+Aftersex (Not Used in Film),Blake Neely,2015,0.0154,0.387,1
+They're Not Coming Back,Blake Neely,2016,0.00692,0.244,1
+"Aaranadyam Kandathennu (From ""Love Land"")","Vijay Yesudas, Rimi Tomy",2015,0.000184,0.0,1
+Foolish Question,"Blake Neely, Sherri Chung",2018,0.00804,0.263,1
+Classified,A.R. Rahman,2017,0.00987,0.167,1
+Mitzy,Ramin Djawadi,2019,0.0119,0.396,1
+New Serpent King,"Blake Neely, Sherri Chung",2018,0.0117,0.186,1
+Crippled By Fear,Alan Silvestri,2018,0.0131,0.125,1
+Airport Transaction,Blake Neely,2015,0.0128,0.318,1
+Jimmy Bonds with Marcus,Blake Neely,2017,0.00888,0.0865,1
+My Future Is Now,"Blake Neely, Daniel James Chan",2019,0.00873,0.0619,1
+Loss to Vinci,Blake Neely,2016,0.00946,0.313,0
+Invited to the FBI,"Blake Neely, Sherri Chung",2019,0.00447,0.28,0
+"Aaranadyam Kandathennu (From ""Love Land"")","Vijay Yesudas, Rimi Tomy",2015,0.000184,0.0,0
+"Thanks, Mom (Not Used in Film)",Blake Neely,2015,0.00673,0.329,0
+Just the Way You Are (Arr. for Piano),"Billy Joel, Yann Nyman",2019,0.0125,0.37,0
+New Recruit,Daniel Pemberton,2017,0.0178,0.195,0
+The Court Of Public Opinion,Daniel Pemberton,2017,0.00231,0.262,0
+Just the Way You Are (Arr. for Piano),"Billy Joel, Yann Nyman",2019,0.0125,0.37,0
+Yeh Zindagi Ek Raaz Hai,Javed Ali,2019,0.0184,0.237,0
+Just the Way You Are (Arr. for Piano),"Billy Joel, Yann Nyman",2019,0.0125,0.37,0
+Learn A Lesson,Daniel Pemberton,2017,0.019,0.182,0
+"Aaranadyam Kandathennu (From ""Love Land"")","Vijay Yesudas, Rimi Tomy",2016,0.000184,0.0,0
+Hoover's Funeral,Daniel Pemberton,2017,0.00646,0.209,0
